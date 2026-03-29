@@ -15,5 +15,5 @@ I'm actively transitioning into BSA and IT BA roles in the Minneapolis–Saint P
 👉 [Business Analysis Portfolio](https://github.com/AmmarKusow/ba-portfolio) — two complete case studies covering e-commerce checkout requirements and HRIS onboarding workflow redesign
 
 ### Connect
-- 💼 [LinkedIn](https:https://www.linkedin.com/in/ammar-kusow/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ammar-kusow)
 - 📧 Ammar.kusow2@gmail.com
