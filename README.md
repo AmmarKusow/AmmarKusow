@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Ammar Ali 👋
 
-<!--
-**AmmarKusow/AmmarKusow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Business Analyst / Business Systems Analyst**
+📍 Brooklyn Park, MN
 
-Here are some ideas to get you started:
+I'm actively transitioning into BSA and IT BA roles in the Minneapolis–Saint Paul area, with a background in Agile software delivery and IT operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I bring
+- Requirements gathering, process mapping, and acceptance criteria documentation
+- UAT support and defect tracking across Agile sprint cycles
+- Systems analysis and API/integration validation
+- End-to-end BA case studies demonstrating real deliverables
+
+### Portfolio
+👉 [Business Analysis Portfolio](https://github.com/AmmarKusow/ba-portfolio) — two complete case studies covering e-commerce checkout requirements and HRIS onboarding workflow redesign
+
+### Connect
+- 💼 [LinkedIn](https:https://www.linkedin.com/in/ammar-kusow/)
+- 📧 Ammar.kusow2@gmail.com
